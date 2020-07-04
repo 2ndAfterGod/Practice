@@ -1,0 +1,17 @@
+﻿  Source.cpp
+D:\dev\RobotOpenCV\Source.cpp(12,29): warning C4305: инициализация: усечение из "double" в "float"
+D:\dev\RobotOpenCV\Source.cpp(17,22): warning C4305: инициализация: усечение из "double" в "float"
+D:\dev\RobotOpenCV\Source.cpp(36,10): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(107,1): warning C4305: инициализация: усечение из "double" в "float"
+D:\dev\RobotOpenCV\Source.cpp(111,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(112,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(116,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(117,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(122,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(123,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(129,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(130,15): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(211,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(245,23): warning C4244: =: преобразование "float" в "clock_t", возможна потеря данных
+D:\dev\RobotOpenCV\Source.cpp(246,12): warning C4244: =: преобразование "clock_t" в "float", возможна потеря данных
+  RobotOpenCV.vcxproj -> D:\dev\RobotOpenCV\x64\Debug\RobotOpenCV.exe

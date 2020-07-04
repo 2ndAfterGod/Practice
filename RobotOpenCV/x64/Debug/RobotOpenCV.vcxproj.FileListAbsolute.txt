@@ -1,0 +1,2 @@
+D:\dev\RobotOpenCV\x64\Debug\RobotOpenCV.exe
+D:\dev\RobotOpenCV\x64\Debug\RobotOpenCV.pdb
